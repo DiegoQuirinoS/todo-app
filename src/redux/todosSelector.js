@@ -1,0 +1,1 @@
+export const filteredTodos = (state) => state.todoState.filteredTodos;
